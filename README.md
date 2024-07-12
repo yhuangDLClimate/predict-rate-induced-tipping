@@ -5,6 +5,8 @@
 #### function for implementing the stochastic dynamical equation: "generate_tipts.m"
 #### generate and plot the time series for demonstration: "Ensemble_simulations_Saddle_Node_System.m"
 ##### outputs: "time_series.jpg"
+### generated dataset for the time series ensembles
+##### stored in data folder: "largesample_case1data.mat"
 
 ## demonstrate traditional EWS for predicting tipping: Critical Slowing Down (CSD), i.e., lag-1 autocorrelation and variance, in matlab programming
 #### function for calculating CSD: "tpind.m"
