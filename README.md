@@ -15,6 +15,6 @@
 ### jupyter notebook for training the neural networks, and saving trained model and loss values: "DLmodel_for_Saddle_Node_System.ipynb"
 #### outputs: "best_model.pt", "losstrain.txt", "lossval.txt", "losstest.txt", "acctrain.txt", "accval.txt", "acctest.txt"
 ### libarary for implementing layer-wise relevance propagation (LRP) algorithm
-#### folder "lrp", which is adaped from github project https://github.com/fhvilshoj/TorchLRP
+#### folder "lrp", which is adaped from the existing github project: https://github.com/fhvilshoj/TorchLRP
 ### jupyter notebook for calculating R-tipping probability and LRP score: "DLmodel_for_Saddle_Node_System.ipynb"
 #### outputs: "probabilityandlrpscore.mat"
