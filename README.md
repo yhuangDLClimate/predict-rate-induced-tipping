@@ -20,6 +20,4 @@
 #### folder "lrp", which is adaped from the existing github project: https://github.com/fhvilshoj/TorchLRP
 ### jupyter notebook for calculating R-tipping probability and LRP score: "DLmodel_for_Saddle_Node_System.ipynb"
 #### outputs: "probabilityandlrpscore.mat", and "shuffledlabel" for the groundtruth's labels 
-
-## results folder
-#### since the system in CodeOcean will automatically delect the generated files in the "results" folder. We put the generated results based on previous run in CodeOcean.  
+  
