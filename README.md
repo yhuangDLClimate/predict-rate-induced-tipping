@@ -1,5 +1,7 @@
 # predict rate-induced tipping 
 
+### see also: https://zenodo.org/records/13939234 
+
 ## generate time series data with R-tipping and without R-tipping, in matlab programming
 ### Saddle-node system as an example
 #### function for implementing the stochastic dynamical equation: "generate_tipts.m"
@@ -21,3 +23,4 @@
 ### jupyter notebook for calculating R-tipping probability and LRP score: "DLmodel_for_Saddle_Node_System.ipynb"
 #### outputs: "probabilityandlrpscore.mat", and "shuffledlabel" for the groundtruth's labels 
   
+### reference: https://www.nature.com/articles/s42256-024-00937-0
